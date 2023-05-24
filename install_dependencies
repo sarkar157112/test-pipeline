@@ -8,3 +8,6 @@ sudo apt install -y apache2
 # Enable Apache Service
 sudo systemctl enable apache2
 
+# remove default index.html
+sudo rm -rf /var/www/html/index.html
+
