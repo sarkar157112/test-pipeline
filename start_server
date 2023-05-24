@@ -1,0 +1,3 @@
+#!/bin/bash
+# Start Apache Service
+sudo systemctl start apache2
