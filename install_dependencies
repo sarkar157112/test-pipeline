@@ -8,5 +8,3 @@ sudo apt install -y apache2
 # Enable Apache Service
 sudo systemctl enable apache2
 
-# Start Apache Service
-sudo systemctl start apache2
